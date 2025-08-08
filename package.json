@@ -1,17 +1,17 @@
 {
-  "name": "{{name_of_lib}}",
+  "name": "solid-remark",
   "version": "0.0.0",
-  "description": "{{desc_of_lib}}",
+  "description": "Render mdast into solid-js incrementally",
   "license": "MIT",
-  "author": "{{me}}",
+  "author": "Muspi Merol",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/{{me}}/{{name_of_lib}}.git"
+    "url": "git+https://github.com/promplate/solid-remark.git"
   },
-  "homepage": "https://github.com/{{me}}/{{name_of_lib}}#readme",
+  "homepage": "https://github.com/promplate/solid-remark#readme",
   "bugs": {
-    "url": "https://github.com/{{me}}/{{name_of_lib}}/issues"
+    "url": "https://github.com/promplate/solid-remark/issues"
   },
   "files": [
     "dist"
